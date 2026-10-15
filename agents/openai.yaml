@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сжатие видео"
+  short_description: "Сжатие MP4 по нашему профилю, без звука по умолчанию"
+  default_prompt: "Используй $compress-video для сжатия этого видео."
